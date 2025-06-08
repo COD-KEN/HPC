@@ -3,7 +3,7 @@
 This repository contains links to YouTube videos used in my study on human pose clustering (HPC).
 
 ## 📹 Video List
-[Safety Harnesses]
+**[Safety Harnesses]**
 1. [How to Put on a Safety Harness](https://youtu.be/lzE8ka9uVZQ)
 2. [Donning a Harness - How to properly put on a safety harness before working at heights](https://youtu.be/Aza-s-uuaY8)
 3. [Karam Industries How to wear a Harness](https://youtu.be/WyiBTvZX26E)
