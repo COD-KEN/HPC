@@ -63,7 +63,7 @@ This repository contains links to YouTube videos used in my study on human pose 
 24. [How To Properly Don a Harness (NA)](https://www.youtube.com/watch?v=HxtLSKR_s34)
 25. [Hard Hat Chin Straps, Lanyards, & Ways to Keep Your Hard Hat From Falling to the Ground](https://youtu.be/XiZ0GVdLUU8)
 26. [新製品　ジェントスから便利なヤツ出た。](https://youtu.be/1yZHtNddsUw)
-27. [現場新人研修：ヘルメットの選び方と着用](https://youtu.be/heBffWPuCyE?si=okhdq9dg6wlYcNty)
+27. [Good Quality - Lanon Hard Hat Review | Link in Description](https://youtu.be/heBffWPuCyE?si=okhdq9dg6wlYcNty)
 28. [Our Point of View on Lift Safety Hard Hats From Amazon](https://youtu.be/1TPBcZLwnfM)
 29. [KASK - Zenith Safety Helmet Collection Video](https://youtu.be/vjUGXy1etM8)
 30. [☆現場作業もお洒落に攻める時代！俺はバリバリゴールドヘルメットで更にカスタマイズします！](https://youtu.be/TZ5j-7Rebvk)
